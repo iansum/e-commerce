@@ -32,9 +32,9 @@ class ProductFactory extends Factory
             'image' => 'digital_' . $category_id.'.jpg',
             'category_id' => $category_id
 
-
-
-
         ];
     }
 }
+
+//tech gadgest na lang ba like smartphone, laptop, tablet,  mouuse, keyboard 
+//ok na ba yan?
